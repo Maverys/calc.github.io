@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+input{
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
+div{
+    background-color: slategrey;
+    color: darkgreen;
+}
